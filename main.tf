@@ -1,5 +1,5 @@
 provider "aws" {
-  region = "ap-souteast-1"
+  region = "ap-southseast-1"
 }
 
 module "module1" {
